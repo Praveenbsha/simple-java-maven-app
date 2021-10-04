@@ -9,9 +9,9 @@
   <url>http://maven.apache.org</url>
   <dependencies>
     <dependency>
-      <groupId>junit</groupId>
-      <artifactId>junit</artifactId>
-      <version>4.13.2</version>
+      <groupId>junita</groupId>
+      <artifactId>junita</artifactId>
+      <version>4.13.2a</version>
       <scope>test</scope>
     </dependency>
   </dependencies>
